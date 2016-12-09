@@ -63,7 +63,3 @@ else
         done
 
 fi
-1]
-                j=0
-                
-
